@@ -1,0 +1,3 @@
+id;entity;kind;balance
+1;test;debit_bank_account;0
+2;test2;debit_credit_bank_account;0

@@ -1,0 +1,5 @@
+.idea
+db/backups
+.DS_Store
+service
+http-requests.sh
